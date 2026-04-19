@@ -1,5 +1,5 @@
 # CodeAlpha Internship Tasks
-
+(The file which have less content there both tasks are in a same folder but file whose tasks require more files they cannot be uploaded by keeping them in one folder so I have mentioned in bracket which file a specific task belongs).
 This repository contains all the tasks completed during my internship.
 
 ## 📁 App Development
