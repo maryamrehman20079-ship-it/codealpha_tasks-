@@ -6,18 +6,18 @@ This repository contains all the tasks completed during my internship.
 
 ### 3. Random Quote Generator
 * **Type:** Web Application
-* **Live Link:** [View App](https://maryamrehman20079-ship-it.github.io/codealpha_tasks-/random-quote-generator/)
+* **Live Link:** [View App](https://maryamrehman20079-ship-it.github.io/codealpha_tasks-/random-quote-generator(App%20Development)/)
 
 
 ### 2. Flashcard App
 * **Type:** Web Application
-* **Live Link:** [View App](https://maryamrehman20079-ship-it.github.io/codealpha_tasks-/flashcard-app/)
+* **Live Link:** [View App](https://maryamrehman20079-ship-it.github.io/codealpha_tasks-/flashcard-app(App%20development)/)
 
 ## 📁 Artificial Intelligence Tasks
 ### 1. Translation Tool
-**Live Link** [View App](https://maryamrehman20079-ship-it.github.io/codealpha_tasks-/translation-tool/)
+**Live Link** [View App](https://maryamrehman20079-ship-it.github.io/codealpha_tasks-/translation-tool(AI%20task)/)
 ### 2. Object Detection Tracking Web
-**Live Link** [View App](https://maryamrehman20079-ship-it.github.io/codealpha_tasks-/object-detection-tracking-web/)
+**Live Link** [View App](https://maryamrehman20079-ship-it.github.io/codealpha_tasks-/object-detection-tracking-web(AI%20task)/)
   
 ## 📁 Backend Development
 
@@ -45,7 +45,7 @@ Then open `http://127.0.0.1:8000/` in your browser.
 
 ## 📁 Cloud Computing Tasks
 ### 1.ChatBot
-* **Live Link:** [View App](https://maryamrehman20079-ship-it.github.io/codealpha_tasks-/Chatbot_Task/) 
+* **Live Link:** [View App](https://maryamrehman20079-ship-it.github.io/codealpha_tasks-/Chatbot_Task(Cloud%20Computing)/) 
 ### 2.Data Redundancy Removal System
 ## Files Included
 - `main.py` – main Python program
